@@ -20,15 +20,19 @@ In this project, we have written code in python to make our program. In that, th
 - Communication :
 
 <br>
+
 ![alt text](/4.png "Third")
 
 <br><br>
+
 ![alt text](/41.png "Fourth")
+
 <br>
 
 - Disconnected :
 
 <br>
+
 ![alt text](/5.png "Fifth")
 
 <br><br>
